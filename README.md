@@ -72,6 +72,7 @@ Implications:
  Diversification possible via gold, silver, crypto.
  Hedging possible via India VIX.
  Nifty is more aligned with Europe/Asia than US markets.
+<img width="1800" height="1400" alt="nifty_vs_all_close_heatmap" src="https://github.com/user-attachments/assets/19747d67-7885-4a5a-9a46-c251226cdaac" />
 
 ---
 
@@ -106,6 +107,7 @@ Implications:
  Timing matters: Nifty open reacts to US close; Nifty close aligns more with Europe.
  Overnight dynamics: Fear gauges (VIX) are less impactful at open than during the trading session.
  Traders should watch overnight US moves; investors should value gold/crypto for diversification.
+<img width="1800" height="1400" alt="nifty_vs_all_heatmap_open" src="https://github.com/user-attachments/assets/53905319-2fba-45d0-bda2-ba5541a2fc6d" />
 
 ---
 
